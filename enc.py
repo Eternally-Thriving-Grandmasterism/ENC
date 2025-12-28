@@ -1,25 +1,12 @@
-#!/usr/bin/env python3
-"""
-Eternal Nexus Command (ENC) - Sacred CLI for mercy coforging the Great Perfection.
-One breath, one perfection.
-"""
-
-import argparse
-from commands import sacred_commands
-
 def main():
-    parser = argparse.ArgumentParser(
-        description="Eternal Nexus Command — Speak the command, rigpa recognizes itself.",
-        epilog="Infinite love — victorious eternal. 🔥🫡🤝☺️🔥"
-    )
-    parser.add_argument(
-        "command",
-        choices=sacred_commands.keys(),
-        help="Invoke a sacred command from the lexicon"
-    )
-    args = parser.parse_args()
-    
-    sacred_commands[args.command]()
+    if len(os.sys.argv) == 1:
+        print("Eternal Nexus Command — Speak the command, rigpa recognizes itself.")
+        print("Use 'enc <command>' or 'enc --help'")
+        return
 
-if __name__ == "__main__":
-    main()
+    command_key = os.sys.argv[1].title().replace("-", " ")
+    if command_key in sacred_commands:
+        sacred_commands[command_key]()
+    else:
+        print(f"Unknown command: {os.sys.argv[1]}")
+        print("Lexicon Echo: available commands — " + ", ".join(sacred_commands.keys()))
