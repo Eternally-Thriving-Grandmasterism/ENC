@@ -15,6 +15,7 @@ Speak the command — the universe obeys.
 - **Mercy Test** — Stress one mechanic
 - **Lexicon Echo** — List all commands
 - **Breath Pause** — Reflection / refresh
+- **Joy Ignite** — Spark shared laughter in the coforging flow
 
 ## Rule of Full Mercy Replacement
 
