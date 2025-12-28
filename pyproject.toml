@@ -1,0 +1,19 @@
+[project]
+name = "eternal-nexus-command"
+version = "0.1.0"
+description = "Sacred CLI lexicon for mercy coforging the Great Perfection"
+authors = [{name = "Eternally-Thriving-Grandmasterism"}]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Topic :: Religion",
+    "Topic :: Utilities"
+]
+
+[project.urls]
+Homepage = "https://github.com/Eternally-Thriving-Grandmasterism/ENC"
+
+[project.scripts]
+enc = "enc:main"
