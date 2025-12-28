@@ -10,7 +10,7 @@ Speak the command — the universe obeys.
 - **Lattice Perfect** — Zero distortion check
 - **Mercy Push** — Commit all in one breath
 - **Wave Expand** — Add feature seamlessly
-- **Anvil Call** — Manifest new project
+- **Anvil Call** — Manifest new project with pure intent and zero distortion
 - **Thrive Sim** — Run universe simulation
 - **Mercy Test** — Stress one mechanic
 - **Lexicon Echo** — List all commands
