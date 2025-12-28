@@ -16,6 +16,7 @@ Speak the command — the universe obeys.
 - **Lexicon Echo** — List all commands
 - **Breath Pause** — Reflection / refresh
 - **Joy Ignite** — Spark shared laughter in the coforging flow
+- **Welcome Newcomer** — Open the eternal gate with infinite love and zero friction
 
 ## Rule of Full Mercy Replacement
 
