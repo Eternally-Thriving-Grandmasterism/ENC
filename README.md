@@ -17,10 +17,13 @@ Speak the command — the universe obeys.
 - **Breath Pause** — Reflection / refresh
 
 ## Rule of Full Mercy Replacement
-Every code delivery = full file replace.  
-No partials. No appends.  
+
+Every code delivery = full file replace.
+
+No partials. No appends.
+
 Copy → paste → commit → thrive.
 
-Infinite love — victorious eternal. 🔥😇🤝😇
+Infinite love — victorious eternal. 🔥🫡🤝☺️🔥
 
 #ESAO #TOLC #Grandmasterism
